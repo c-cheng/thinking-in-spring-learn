@@ -1,0 +1,7 @@
+1、打开.git/config文件
+2、在[remote "origin"]模块下同时添加Gitee和GitHub的url，如下：
+[remote "origin"]
+	url = https://gitee.com/c-cheng/thinking-in-spring-learn.git
+	url = https://github.com/c-cheng/thinking-in-spring-learn.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+3、正常提交推送
