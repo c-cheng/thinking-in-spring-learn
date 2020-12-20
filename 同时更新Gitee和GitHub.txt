@@ -6,3 +6,4 @@
 	fetch = +refs/heads/*:refs/remotes/origin/*
 3、正常提交推送
 4、如果我修改GitHub，没有修改gitee，可以拉取到修改吗？不行的，因为Gitee是第一个URL，以第一个为主
+5、GitHub与Gitee同时都做了修改，但是更新拉取下来只有Gitee，本地修改之后可以同时更新两个仓库吗？
