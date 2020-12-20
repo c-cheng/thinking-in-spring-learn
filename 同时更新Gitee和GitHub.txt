@@ -5,4 +5,3 @@
 	url = https://github.com/c-cheng/thinking-in-spring-learn.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 3、正常提交推送
-4、如果我修改GitHub，没有修改gitee，可以拉取到修改吗
